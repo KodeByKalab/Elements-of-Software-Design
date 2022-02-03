@@ -2,13 +2,6 @@
 
 #  Description: Implement a cache with hash table and linked list
 
-#  Student Name: Kalab Alemu
-
-#  Student UT EID: kga469
-
-#  Course Name: CS 313E
-
-#  Unique Number:
 
 import sys
 
