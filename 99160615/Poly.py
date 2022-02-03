@@ -1,22 +1,5 @@
 #  File: Poly.py
 
-#  Description:
-
-#  Student Name: Kalab Alemu 
-
-#  Student UT EID: kga469 
-
-#  Partner Name:
-
-#  Partner UT EID:
-
-#  Course Name: CS 313E
-
-#  Unique Number: 
-
-#  Date Created:
-
-#  Date Last Modified:
 import sys
 class Link (object):
   def __init__(self, coeff = 1, exp = 1, next = None):
