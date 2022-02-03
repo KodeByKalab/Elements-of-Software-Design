@@ -2,21 +2,7 @@
 
 #  Description: Our own implementation of a single linked list
 
-#  Student Name: Kalab Alemu
 
-#  Student UT EID: kga469
-
-#  Partner Name: Joseph Hendrix
-
-#  Partner UT EID: jlh7459
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52595
-
-#  Date Created: 11/1/21
-
-#  Date Last Modified: 11/1/21
 
 class Link(object):
     def __init__(self, data, next=None):
