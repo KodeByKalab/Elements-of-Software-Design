@@ -3,21 +3,7 @@
 #  Description: Creates and evaluates an expression tree from an inputted infix expression; outputs postfix
 #                and prefix notations for inputted infix expression
 
-#  Student Name: Kalab Alemu
 
-#  Student UT EID: kga469
-
-#  Partner Name: Joseph Hendrix
-
-#  Partner UT EID: jlh7459
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52595
-
-#  Date Created: 11/12/21
-
-#  Date Last Modified: 11/12/21
 
 import sys
 
