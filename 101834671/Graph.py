@@ -2,21 +2,7 @@
 
 #  Description: A graph implementation with operations for transversal and deletion of edges and vertices
 
-#  Student Name: Kalab Alemu
 
-#  Student UT EID: kga469
-
-#  Partner Name: Joseph Hendrix
-
-#  Partner UT EID: jlh7459
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52595
-
-#  Date Created: 11/21/21
-
-#  Date Last Modified: 11/22/21
 
 import sys
 
