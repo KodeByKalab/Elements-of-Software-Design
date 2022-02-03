@@ -2,21 +2,6 @@
 
 #  Description:
 
-#  Student Name: Dao Ton-Nu
-
-#  Student UT EID: dt26435  
-
-#  Partner Name: Kalab Alemu
-
-#  Partner UT EID: dt26435
-
-#  Course Name: CS 313E 
-
-#  Unique Number: 52590
-
-#  Date Created: 8/29/2021
-
-#  Date Last Modified: 9/3/2021
 
 import sys
 
